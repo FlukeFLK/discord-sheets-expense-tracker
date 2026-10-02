@@ -70,10 +70,10 @@ Worker → **Settings → Variables and Secrets → Add** (ครบแล้ว
 
 | ชื่อ | ประเภท | ค่า |
 |---|---|---|
-| `DISCORD_PUBLIC_KEY` | Text | Public Key จากขั้นที่ 1 |
-| `DISCORD_BOT_TOKEN` | **Secret** | Bot Token จากขั้นที่ 1 |
-| `APPS_SCRIPT_URL` | Text | Web app URL จากขั้นที่ 3 |
-| `SHARED_SECRET` | **Secret** | รหัสจากขั้นที่ 4 |
+| `DISCORD_PUBLIC_KEY` | Text | Public Key จากขั้นตอนที่ 1 |
+| `DISCORD_BOT_TOKEN` | **Secret** | Bot Token จากขั้นตอยที่ 1 |
+| `APPS_SCRIPT_URL` | Text | Web app URL จากขั้นตอนที่ 3 |
+| `SHARED_SECRET` | **Secret** | รหัสจากขั้นตอนที่ 4 |
 
 ## 7. ตั้ง Interactions Endpoint URL
 
