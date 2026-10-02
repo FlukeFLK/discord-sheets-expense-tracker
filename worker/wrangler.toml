@@ -1,0 +1,11 @@
+# ใช้เมื่ออยากดีพลอยด้วย Wrangler CLI แทนการวางโค้ดในหน้าเว็บ Cloudflare
+#   npx wrangler deploy
+#   npx wrangler secret put DISCORD_BOT_TOKEN
+#   npx wrangler secret put SHARED_SECRET
+name = "money-bot"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+# DISCORD_PUBLIC_KEY = "Public Key จาก Discord Developer Portal"
+# APPS_SCRIPT_URL = "https://script.google.com/macros/s/xxxxx/exec"
