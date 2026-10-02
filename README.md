@@ -36,7 +36,7 @@
 
 ---
 
-## 🏗️ สถาปัตยกรรม
+## 🏗️ Architecture
 
 ```mermaid
 flowchart LR
